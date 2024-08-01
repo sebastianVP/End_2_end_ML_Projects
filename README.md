@@ -5,9 +5,9 @@
  
 # ¿Por qué se necesitan End-to-End ML Projects?
 ---
-**End-to-end ML projects are essential** son esenciales porque:
+**End-to-end ML projects ** son esenciales porque:
 
-1. Proporcionan una aprendizaje integral: Cubre todo el cilco de vida del aprendizaje automaticos, desde la recopilacion de datos hasta la implementacion del modelo.
+1. Proporcionan una aprendizaje integral: Cubre todo el ciclo de vida del aprendizaje automaticos, desde la recopilacion de datos hasta la implementacion del modelo.
 2. Desarrollas habilidades esenciales: Mejora las habilidades tecnicas, de resolucion de problemas y de gestion de proyectos
 3. Crea soluciones del mundo real: Habilita la implementacion de modelos para predicciones en tiempo real y actualizaciones continuas.
 4. Crea portafolios solidos: Permita mostrar nuestra experiencia y versatilidad a posibles empleadores o clientes.
