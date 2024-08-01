@@ -3,7 +3,7 @@
 
 **End-to-end Machine Learning (ML) projects** implican el flujo de trabajo completo de desarrollo e implementación de un modelo de aprendizaje automático, que abarca todas las etapas, desde la definición del problema hasta la implementación del modelo. Estos proyectos brindan una experiencia de aprendizaje integral al cubrir todos los aspectos esenciales del proceso de aprendizaje automático.
  
-# ¿Por qué se necesitan End-to-End ML Projects Needed?
+# ¿Por qué se necesitan End-to-End ML Projects?
 ---
 **End-to-end ML projects are essential** son esenciales porque:
 
